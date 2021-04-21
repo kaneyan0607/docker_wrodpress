@@ -1,0 +1,23 @@
+{
+  "name": "docker_wrodpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "wp-env": "wp-env",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaneyan0607/docker_wrodpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaneyan0607/docker_wrodpress/issues"
+  },
+  "homepage": "https://github.com/kaneyan0607/docker_wrodpress#readme",
+  "devDependencies": {
+    "@wordpress/env": "^4.0.2"
+  }
+}
